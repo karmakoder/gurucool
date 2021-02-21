@@ -1,0 +1,2 @@
+# gurucool
+Guru is Cool
